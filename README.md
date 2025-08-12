@@ -8,7 +8,8 @@ Easily add, edit, complete, reorder, and delete your tasks — all stored locall
 <div align="center">
 
 ## 🚀 Live Demo  
-🔗 [Run Live](https://todolistbyizzu.netlify.app/)  
+🔗 [Run Live](https://todolistbyizzu.netlify.app/)
+<br><br>
 <img src="src/assets/Screenshot.png" alt="Screenshot" width="400"/>
 
 </div>
