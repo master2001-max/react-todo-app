@@ -75,24 +75,5 @@ npm run build
 * **Delete:** Click 🗑️ icon.
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License** — free to use and modify.
-
+free to use and modify.
 ---
-
-## 👨‍💻 Author
-
-**Isuru Jayantha**
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🌐 Portfolio: [your-portfolio-link.com](#)
-
-```
-
----
-
-If you want, I can also **make it more internship-attractive** by adding a short “Why this project is awesome” section and some keywords for recruiters so your GitHub looks stronger. That way, when someone opens your repo, they instantly see your skills in React, Tailwind, animations, and UI/UX thinking.  
-
-Do you want me to add that too?
-```
