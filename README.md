@@ -5,11 +5,15 @@ A modern, animated, and responsive **Todo List application** built with **React*
 Easily add, edit, complete, reorder, and delete your tasks — all stored locally in your browser for quick access.
 
 ---
+<div align="center">
 
 ## 🚀 Live Demo  
 🔗 [Run Live](https://todolistbyizzu.netlify.app/)  
+<img src="src/assets/Screenshot.png" alt="Screenshot" width="400"/>
 
-![Preview Screenshot]<img src="src/assets/Screenshot.png" alt="Screenshot" width="400"/>
+</div>
+ 
+
 
 ---
 
