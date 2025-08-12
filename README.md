@@ -9,7 +9,7 @@ Easily add, edit, complete, reorder, and delete your tasks — all stored locall
 ## 🚀 Live Demo  
 🔗 [Run Live](https://todolistbyizzu.netlify.app/)  
 
-![Preview Screenshot](src/assets/Screenshot.png)
+![Preview Screenshot]<img src="src/assets/Screenshot.png" alt="Screenshot" width="400"/>
 
 ---
 
