@@ -1,8 +1,7 @@
-# ⚡ TaskWave - Modern To-Do List App
+⚡ TaskWave — A Modern To-Do List Application
+TaskWave is a sleek and responsive To-Do List application built using React, Tailwind CSS, and Framer Motion. It offers a user-friendly interface for managing tasks with features like adding, editing, reordering, completing, and deleting tasks. All data is persistently stored in the browser's localStorage, ensuring your tasks are saved across sessions.
 
-TaskWave is a sleek, modern, and responsive To-Do List application built with **React**, **Tailwind CSS**, and **Framer Motion**.  
-It allows users to **add**, **edit**, **reorder**, **complete**, and **delete** tasks, with data saved in the browser's **localStorage** for persistence.
-
+Live Demo
 <img src="src/assets/Screenshot.png" alt="Screenshot" width="400"/>
 
 
